@@ -11,19 +11,23 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 - 🚀 I'm currently learning new things and updating myself on a daily basis.
 - 🚀 Connect with me : https://www.linkedin.com/in/sanchit-sharma-580896238/
 - 🙋🏻‍♂️ Follow Me On Twitter : https://twitter.com/SANCHITSHARMA75
-
+- 🚀 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Sanchitsharma2005.Sanchitsharma2005)
 <br/>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanchitsharma2005&theme=dark)](https://git.io/streak-stats)
+  
+</div>
 
-[![Sanchit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchitsharma2005&show_icons=true)](https://github.com/Sanchitsharma2005)
+
+[![Sanchit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchitsharma2005&show_icons=true&theme=onedark)](https://github.com/Sanchitsharma2005)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitsharma2005&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitsharma2005&show_icons=true&theme=onedark)
 
 <hr>
-<h3> 🤝🏻 Connect with Me </h3>
-<a href="https://www.linkedin.com/in/sanchit-sharma-580896238/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sanchitsharma2005-blue?style=flat-square&logo=linkedin"></a>
+
 <br>
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Sanchitsharma2005.Sanchitsharma2005)
+<a href="https://github.com/Sanchitsharma2005/github-readme-activity-graph"><img alt="Sanchit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sanchitsharma2005&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
