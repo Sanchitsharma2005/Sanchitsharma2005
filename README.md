@@ -6,9 +6,11 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 
 - 🔭 I’m currently working as graphic designer intern at Devsnest.in.
 - 🌱 I’m currently learning Full-Stack Web Dev.
-- 🚀 I'm building my own discord community Hustler's Zone | Join Here : https://discord.gg/tJghJNc6TG
+- 🚀 I'm building my own community Hustler's Zone | Join Here : https://discord.gg/tJghJNc6TG
 - 💸 I'm also a Trader.
 - 🚀 I'm currently learning new things and updating myself on a daily basis.
+- 🚀 Connect with me : https://www.linkedin.com/in/sanchit-sharma-580896238/
+- 🙋🏻‍♂️ Follow Me On Twitter : https://twitter.com/SANCHITSHARMA75
 
 <br/>
 
