@@ -14,8 +14,12 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 
 <br/>
 
-[![Sanchit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchitsharma2005&show_icons=true)](https://github.com/Sanchitsharma2005)
 
+[(https://github-readme-stats.vercel.app/api?username=Sanchitsharma2005&show_icons=true)](https://github.com/Sanchitsharma2005)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitsharma2005&show_icons=true)
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
