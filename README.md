@@ -14,9 +14,12 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 - 🚀 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Sanchitsharma2005.Sanchitsharma2005)
 <br/>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanchitsharma2005&theme=dark)](https://git.io/streak-stats)
+<div align = "center">
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanchitsharma2005&theme=dark)](https://git.io/streak-stats)
   
-</div>
+
 
 
 [![Sanchit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchitsharma2005&show_icons=true&theme=dark)](https://github.com/Sanchitsharma2005)
@@ -24,6 +27,7 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitsharma2005&show_icons=true&theme=onedark)
 
+</div>
 <hr>
 
 <br>
