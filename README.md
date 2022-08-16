@@ -17,15 +17,15 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 <div align = "center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanchitsharma2005&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanchitsharma2005&theme=dark)](https://git.io/streak-stats)
   
 
 
 
-[![Sanchit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchitsharma2005&show_icons=true&theme=onedark)](https://github.com/Sanchitsharma2005)
+[![Sanchit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchitsharma2005&show_icons=true&theme=dark)](https://github.com/Sanchitsharma2005)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitsharma2005&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitsharma2005&show_icons=true&theme=dark)
 
 </div>
 <hr>
