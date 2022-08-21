@@ -25,7 +25,7 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 <!-- [![Sanchit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchitsharma2005&show_icons=true&theme=onedark)](https://github.com/Sanchitsharma2005) -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitsharma2005&show_icons=true&theme=onedark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitsharma2005&show_icons=true&theme=onedark)-->
 
 </div>
 <hr>
