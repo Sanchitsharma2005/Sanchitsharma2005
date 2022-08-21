@@ -17,7 +17,7 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 <div align = "center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanchitsharma2005&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanchitsharma2005&theme=dark)](https://git.io/streak-stats)
   
 
 
