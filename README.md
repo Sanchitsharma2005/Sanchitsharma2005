@@ -13,12 +13,19 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 - 🙋🏻‍♂️ Follow Me On Twitter : https://twitter.com/SANCHITSHARMA75
 - 🚀 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Sanchitsharma2005.Sanchitsharma2005)
 
+<!-- <div align = "right">
+  
+![myfile](https://media.giphy.com/media/KpKayhnOiSw4o/giphy.gif)
+
+</div> -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/SANCHITSHARMA75" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="Twitter" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/sanchit-sharma-580896238/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="Linkedin" height="50" width="50" /></a>
 <a href="https://discord.gg/u9nBnSTjuE" target="blank"><img align="center" src="https://img.icons8.com/color/344/discord-new-logo.png" alt="Discord" height="50" width="50" /></a>
 </p>
+
 
 <details>
   <summary>💯 GitHub Stats</summary>
