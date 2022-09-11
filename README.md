@@ -12,7 +12,6 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 - 🚀 Connect with me : https://www.linkedin.com/in/sanchit-sharma-580896238/
 - 🙋🏻‍♂️ Follow Me On Twitter : https://twitter.com/SANCHITSHARMA75
 - 🚀 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Sanchitsharma2005.Sanchitsharma2005) [![Netlify Status](https://api.netlify.com/api/v1/badges/b17d2498-6c8b-4aa8-875c-8ef606ac0fb8/deploy-status)](https://app.netlify.com/sites/sanchitsharma/deploys)
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=https://sanchitsharma.netlify.app/)
 
 <!-- <div align = "right">
   
