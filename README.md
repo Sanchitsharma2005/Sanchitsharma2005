@@ -6,7 +6,7 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 
 - 🔭 I’m currently working as graphic designer intern at Devsnest.in.
 - 🌱 I’m currently learning Full-Stack Web Dev.
-- 🚀 I'm building my own community Hustler's Zone | Join Here : https://discord.gg/u9nBnSTjuE
+- 🚀 I'm building my own community Hustler's Zone | Join Here : https://hustlerszone.netlify.app
 - 💸 I'm also a Trader.
 - 🚀 I'm currently learning new things and updating myself on a daily basis.
 - 🚀 Connect with me : https://www.linkedin.com/in/sanchit-sharma-580896238/
@@ -23,7 +23,7 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 <p align="left">
 <a href="https://twitter.com/SANCHITSHARMA75" target="_blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="Twitter" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/sanchit-sharma-580896238/" target="_blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="Linkedin" height="50" width="50" /></a>
-<a href="https://discord.gg/u9nBnSTjuE" target="_blank"><img align="center" src="https://img.icons8.com/color/344/discord-new-logo.png" alt="Discord" height="50" width="50" /></a>
+<a href="https://hustlerszone.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/color/344/discord-new-logo.png" alt="Discord" height="50" width="50" /></a>
 <a href="https://sanchitsharma.netlify.app" target="_blank"><img align="center" src="https://img.icons8.com/fluency/344/domain.png" alt="Website" height="50" width="50" /></a>
 </p>
 
