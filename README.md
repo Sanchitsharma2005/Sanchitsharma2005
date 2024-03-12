@@ -9,8 +9,8 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 <!-- - 🚀 I'm building my own community Hustler's Zone | Join Here : https://hustlershq.netlify.app
 - 💸 I'm also a Trader.
 - 🚀 I'm currently learning new things and updating myself on a daily basis. -->
-- 🚀 Connect with me : https://www.linkedin.com/in/sanchit-sharma-580896238/
-- 🙋🏻‍♂️ Follow Me On Twitter : https://twitter.com/SANCHITSHARMA75
+- 🚀 Connect with me : https://www.linkedin.com/in/sanchitsharma7
+- 🙋🏻‍♂️ Follow Me On Twitter : https://twitter.com/sanchitsharma7_
 - 🚀 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Sanchitsharma2005.Sanchitsharma2005)
 <!-- <div align = "right">
   
@@ -20,8 +20,8 @@ Who enjoys coding and wishes to use my knowledge and skills to make a difference
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/SANCHITSHARMA75](https://twitter.com/sanchitsharma7_)" target="_blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="Twitter" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/sanchit-sharma-580896238/" target="_blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="Linkedin" height="50" width="50" /></a>
+<a href="[https://twitter.com/sanchitsharma7_]" target="_blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="Twitter" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/sanchitsharma7/" target="_blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="Linkedin" height="50" width="50" /></a>
 <!-- <a href="https://hustlershq.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/color/344/discord-new-logo.png" alt="Discord" height="50" width="50" /></a> -->
 <!-- <a href="https://sanchitsharma.netlify.app" target="_blank"><img align="center" src="https://img.icons8.com/fluency/344/domain.png" alt="Website" height="50" width="50" /></a> -->
 </p>
