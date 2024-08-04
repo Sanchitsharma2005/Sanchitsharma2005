@@ -1,7 +1,5 @@
 # About Me 🔥:
 
-
-A Small-Town Boy With Big Dreams!
 I enjoy coding and wish to use my knowledge and skills to make a difference.
 
 - 🌱 I’m currently learning Full-Stack Web Dev.
