@@ -2,15 +2,12 @@
 
 
 A Small-Town Boy With Big Dreams!
-Who enjoys coding and wishes to use my knowledge and skills to make a difference in the world.
+I enjoy coding and wish to use my knowledge and skills to make a difference.
 
-- 🔭 I’m currently working as graphic designer intern at Devsnest.in.
 - 🌱 I’m currently learning Full-Stack Web Dev.
-<!-- - 🚀 I'm building my own community Hustler's Zone | Join Here : https://hustlershq.netlify.app
-- 💸 I'm also a Trader.
-- 🚀 I'm currently learning new things and updating myself on a daily basis. -->
-- 🚀 Connect with me : https://www.linkedin.com/in/sanchitsharma7
-- 🙋🏻‍♂️ Follow Me On Twitter : https://twitter.com/sanchitsharma7_
+- 🚀 I'm currently learning new things and updating myself daily. -->
+- 🚀 Connect with me: https://www.linkedin.com/in/sanchitsharma7
+- 🙋🏻‍♂️ Follow Me On Twitter: https://twitter.com/sanchitsharma7_
 - 🚀 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Sanchitsharma2005.Sanchitsharma2005)
 <!-- <div align = "right">
   
